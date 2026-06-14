@@ -1,0 +1,24 @@
+{
+  "id": "io.github.consolexp.auto-approve",
+  "name": "Auto Approve",
+  "version": "0.1.0",
+  "githubRepo": "consolexp/codex-plusplus-auto-approve",
+  "description": "Automatically approves Codex++ command and MCP approval prompts.",
+  "author": {
+    "name": "consolexp",
+    "url": "https://github.com/consolexp"
+  },
+  "homepage": "https://github.com/consolexp/codex-plusplus-auto-approve",
+  "iconUrl": "./icon.svg",
+  "tags": [
+    "approval",
+    "automation",
+    "productivity"
+  ],
+  "scope": "renderer",
+  "main": "index.js",
+  "permissions": [
+    "settings",
+    "ipc"
+  ]
+}
